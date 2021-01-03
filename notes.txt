@@ -1,0 +1,2 @@
+This is offroadosm branch by Arek.
+The goal is a motorcycle navigation based on Raspi (Linux).
